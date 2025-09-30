@@ -23,33 +23,7 @@ This repository contains my first problem set for Data Science I: Foundations.
 - **README.md** - this file is README.
 
 
-
-## General Rules for Problem Sets
-
-
-- (i) all code must run;
-
-- (ii) solutions should be readable
-
-    -   Code should be thoroughly commented (the Professor/TA should be able to understand the code's purpose by reading the comment),
-    -   Coding solutions should be broken up into individual code chunks in Jupyter/R Markdown notebooks, not clumped together into one large code chunk (See examples in class or reach out to the TA/Professor if this is unclear),
-    -   Each student defined function must contain a docstring explaining what the function does, each input argument, and what the function returns;
-
-
-
-- (iii) Commentary, responses, and/or solutions should all be written in Markdown and explain sufficiently the outputs.
-
-- (iv) All solutions  must be completed in Python.
-
-
-There is no Python in this problem set. So take these rules as a general instruction. 
-
-
-## Step by Step for the Problem Set. 
-
-You should be familiar with the steps required to work on this repository. If not, you will be after completing this assignment and the in-class exercise from this week. 
-
-If you follow the steps below, you should be able to solve all required tasks. 
+ 
 
 ## Working locally in your assignment
 
